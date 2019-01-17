@@ -1,4 +1,4 @@
-class Solution {
+class Sudoku {
 public:
     void solveSudoku(vector<vector<char>>& board) {
         //print_board(board);
